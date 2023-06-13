@@ -1,0 +1,52 @@
+.logo {
+    width: 180px;
+}
+
+.menuBar {
+    width: 27px;
+}
+
+.one {
+    display: flex;
+    width: 12%;
+    justify-content: space-between;
+}
+
+.mic {
+    width: 20px;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    height: 55px;
+}
+
+.three {
+    display: flex;
+    justify-content: space-between;
+    width: 10%;
+}
+
+.three img {
+    width: 30px;
+}
+
+.two {
+    display: flex;
+    width: 50%;
+    align-items: center;
+}
+
+input {
+    width: 90%;
+    height: 60%;
+}
+
+.two button {
+    height: 70%;
+    width: 9%;
+    margin-right: 15px;
+}
+
+
