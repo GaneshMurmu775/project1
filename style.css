@@ -56,6 +56,7 @@ input {
 aside {
     width: 200px;
     font-size: 14px;
+    float: left;
 }
 
 aside div {
@@ -72,6 +73,21 @@ aside h1 {
     font-size: 110%;
 }
 
+nav {
+    margin-left: 230px;
+    display: flex;
+    justify-content: space-between;
+}
+
+nav button {
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+nav img {
+    margin-left: 10px;
+}
 
 
 
